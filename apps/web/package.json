@@ -49,7 +49,7 @@
     "openai-edge": "^1.2.2",
     "papaparse": "^5.4.1",
     "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "3.4.120",
+    "pdfjs-dist": "4.2.67",
     "postcss": "^8.4.28",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
